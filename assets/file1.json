@@ -1,0 +1,250 @@
+{
+  "status": 200,
+  "msg": "successful",
+  "data": {
+    "banners": [
+      {
+        "id": 20,
+        "image": "public/banner/banner-image-1692782316167-590877305.jpg",
+        "wallpaperId": 9,
+        "status": "1",
+        "order": "10",
+        "createdAt": "2023-08-23T09:18:36.000Z",
+        "updatedAt": "2023-08-23T09:18:36.000Z"
+      },
+      {
+        "id": 21,
+        "image": "public/banner/banner-image-1692791692930-976851047.webp",
+        "wallpaperId": 11,
+        "status": "1",
+        "order": "2",
+        "createdAt": "2023-08-23T11:44:20.000Z",
+        "updatedAt": "2023-08-23T11:54:52.000Z"
+      },
+      {
+        "id": 22,
+        "image": "public/banner/banner-image-1692871420016-314008026.webp",
+        "wallpaperId": 10,
+        "status": "1",
+        "order": "4",
+        "createdAt": "2023-08-24T10:03:40.000Z",
+        "updatedAt": "2023-08-24T10:03:40.000Z"
+      }
+    ],
+    "categories": [
+      {
+        "id": 88,
+        "name": "Nature",
+        "image": "public/category/category-image-1692780503950-577539150.jpg",
+        "status": "1",
+        "order": "1",
+        "createdAt": "2023-08-23T08:48:23.000Z",
+        "updatedAt": "2023-08-23T08:48:23.000Z"
+      },
+      {
+        "id": 89,
+        "name": "Animal",
+        "image": "public/category/category-image-1692780629910-128149604.jpg",
+        "status": "1",
+        "order": "1",
+        "createdAt": "2023-08-23T08:50:29.000Z",
+        "updatedAt": "2023-08-23T08:50:29.000Z"
+      },
+      {
+        "id": 92,
+        "name": "Aesthetic",
+        "image": "public/category/category-image-1692786059629-423466664.jpg",
+        "status": "1",
+        "order": "1",
+        "createdAt": "2023-08-23T10:20:59.000Z",
+        "updatedAt": "2023-08-23T10:20:59.000Z"
+      },
+      {
+        "id": 93,
+        "name": "car",
+        "image": "public/category/category-image-1692786061224-715745089.jpg",
+        "status": "1",
+        "order": "1",
+        "createdAt": "2023-08-23T10:21:01.000Z",
+        "updatedAt": "2023-08-24T09:12:55.000Z"
+      },
+      {
+        "id": 94,
+        "name": "Mahadev",
+        "image": "public/category/category-image-1692788091880-903361161.webp",
+        "status": "1",
+        "order": "5",
+        "createdAt": "2023-08-23T10:21:02.000Z",
+        "updatedAt": "2023-08-24T09:13:21.000Z"
+      }
+    ],
+    "wallpapers": [
+      {
+        "id": 10,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692781718952-945034185.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "15",
+        "status": "1",
+        "createdAt": "2023-08-23T09:08:38.000Z",
+        "updatedAt": "2023-08-23T09:08:38.000Z"
+      },
+      {
+        "id": 11,
+        "name": "image",
+        "image": "public/wallpaper/wallpaper-image-1692790948534-601091471.webp",
+        "subcategoryId": "15",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-23T09:25:03.000Z",
+        "updatedAt": "2023-08-24T10:02:33.000Z"
+      },
+      {
+        "id": 12,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692872740846-359466441.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:25:40.000Z",
+        "updatedAt": "2023-08-24T10:25:40.000Z"
+      },
+      {
+        "id": 14,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692872742714-931088785.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:25:42.000Z",
+        "updatedAt": "2023-08-24T10:25:42.000Z"
+      },
+      {
+        "id": 15,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692872743531-201193897.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:25:43.000Z",
+        "updatedAt": "2023-08-24T10:25:43.000Z"
+      },
+      {
+        "id": 16,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692872745779-162223691.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:25:45.000Z",
+        "updatedAt": "2023-08-24T10:25:45.000Z"
+      },
+      {
+        "id": 18,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692873785724-79093281.webp",
+        "subcategoryId": "15",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:43:05.000Z",
+        "updatedAt": "2023-08-24T10:43:05.000Z"
+      },
+      {
+        "id": 19,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692873786747-16748126.webp",
+        "subcategoryId": "15",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:43:06.000Z",
+        "updatedAt": "2023-08-24T10:43:06.000Z"
+      },
+      {
+        "id": 20,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692873787693-743748388.webp",
+        "subcategoryId": "15",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:43:07.000Z",
+        "updatedAt": "2023-08-24T10:43:07.000Z"
+      },
+      {
+        "id": 21,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692873791859-130003286.webp",
+        "subcategoryId": "16",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:43:11.000Z",
+        "updatedAt": "2023-08-24T10:43:11.000Z"
+      },
+      {
+        "id": 23,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692873793610-864379063.webp",
+        "subcategoryId": "16",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:43:13.000Z",
+        "updatedAt": "2023-08-24T10:43:13.000Z"
+      },
+      {
+        "id": 24,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692873794550-526827064.webp",
+        "subcategoryId": "16",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:43:14.000Z",
+        "updatedAt": "2023-08-24T10:43:14.000Z"
+      },
+      {
+        "id": 25,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692873795406-341742045.webp",
+        "subcategoryId": "16",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:43:15.000Z",
+        "updatedAt": "2023-08-24T10:43:15.000Z"
+      },
+      {
+        "id": 26,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692873799808-50197347.webp",
+        "subcategoryId": "17",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:43:19.000Z",
+        "updatedAt": "2023-08-24T10:43:19.000Z"
+      },
+      {
+        "id": 28,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692873801814-900068191.webp",
+        "subcategoryId": "17",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:43:21.000Z",
+        "updatedAt": "2023-08-24T10:43:21.000Z"
+      },
+      {
+        "id": 29,
+        "name": "Imagess",
+        "image": "public/wallpaper/wallpaper-image-1692873802710-45817523.webp",
+        "subcategoryId": "17",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:43:22.000Z",
+        "updatedAt": "2023-08-24T10:43:22.000Z"
+      }
+    ],
+    "homeaddcategory": {
+      "id": 15,
+      "name": "Most Tranding",
+      "createdAt": "2023-08-23T09:02:34.000Z",
+      "updatedAt": "2023-08-23T09:02:34.000Z"
+    }
+  }
+}
