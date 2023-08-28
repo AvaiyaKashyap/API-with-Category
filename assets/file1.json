@@ -5,7 +5,7 @@
     "banners": [
       {
         "id": 20,
-        "image": "public/banner/banner-image-1692782316167-590877305.jpg",
+        "image": "http://localhost:5000/public/banner/banner-image-1692782316167-590877305.jpg",
         "wallpaperId": 9,
         "status": "1",
         "order": "10",
@@ -14,7 +14,7 @@
       },
       {
         "id": 21,
-        "image": "public/banner/banner-image-1692791692930-976851047.webp",
+        "image": "http://localhost:5000/public/banner/banner-image-1692791692930-976851047.webp",
         "wallpaperId": 11,
         "status": "1",
         "order": "2",
@@ -23,7 +23,7 @@
       },
       {
         "id": 22,
-        "image": "public/banner/banner-image-1692871420016-314008026.webp",
+        "image": "http://localhost:5000/public/banner/banner-image-1692871420016-314008026.webp",
         "wallpaperId": 10,
         "status": "1",
         "order": "4",
@@ -35,7 +35,7 @@
       {
         "id": 88,
         "name": "Nature",
-        "image": "public/category/category-image-1692780503950-577539150.jpg",
+        "image": "http://localhost:5000/public/category/category-image-1692780503950-577539150.jpg",
         "status": "1",
         "order": "1",
         "createdAt": "2023-08-23T08:48:23.000Z",
@@ -44,45 +44,45 @@
       {
         "id": 89,
         "name": "Animal",
-        "image": "public/category/category-image-1692780629910-128149604.jpg",
+        "image": "http://localhost:5000/public/category/category-image-1692780629910-128149604.jpg",
         "status": "1",
         "order": "1",
         "createdAt": "2023-08-23T08:50:29.000Z",
         "updatedAt": "2023-08-23T08:50:29.000Z"
       },
       {
-        "id": 92,
-        "name": "Aesthetic",
-        "image": "public/category/category-image-1692786059629-423466664.jpg",
-        "status": "1",
-        "order": "1",
-        "createdAt": "2023-08-23T10:20:59.000Z",
-        "updatedAt": "2023-08-23T10:20:59.000Z"
-      },
-      {
         "id": 93,
         "name": "car",
-        "image": "public/category/category-image-1692786061224-715745089.jpg",
+        "image": "http://localhost:5000/public/category/category-image-1692786061224-715745089.jpg",
         "status": "1",
         "order": "1",
         "createdAt": "2023-08-23T10:21:01.000Z",
         "updatedAt": "2023-08-24T09:12:55.000Z"
       },
       {
-        "id": 94,
-        "name": "Mahadev",
-        "image": "public/category/category-image-1692788091880-903361161.webp",
+        "id": 95,
+        "name": "Technology",
+        "image": "http://localhost:5000/public/category/category-image-1692953818636-47553217.jpg",
         "status": "1",
-        "order": "5",
-        "createdAt": "2023-08-23T10:21:02.000Z",
-        "updatedAt": "2023-08-24T09:13:21.000Z"
+        "order": "1",
+        "createdAt": "2023-08-25T08:56:58.000Z",
+        "updatedAt": "2023-08-25T08:56:58.000Z"
+      },
+      {
+        "id": 96,
+        "name": "Sports",
+        "image": "http://localhost:5000/public/category/category-image-1692953833205-890717635.jpg",
+        "status": "1",
+        "order": "1",
+        "createdAt": "2023-08-25T08:57:13.000Z",
+        "updatedAt": "2023-08-25T08:57:13.000Z"
       }
     ],
     "wallpapers": [
       {
         "id": 10,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692781718952-945034185.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692781718952-945034185.webp",
         "subcategoryId": "14",
         "homecategoryId": "15",
         "status": "1",
@@ -92,7 +92,7 @@
       {
         "id": 11,
         "name": "image",
-        "image": "public/wallpaper/wallpaper-image-1692790948534-601091471.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692790948534-601091471.webp",
         "subcategoryId": "15",
         "homecategoryId": "16",
         "status": "1",
@@ -102,7 +102,7 @@
       {
         "id": 12,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692872740846-359466441.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692872740846-359466441.webp",
         "subcategoryId": "14",
         "homecategoryId": "16",
         "status": "1",
@@ -110,9 +110,19 @@
         "updatedAt": "2023-08-24T10:25:40.000Z"
       },
       {
+        "id": 13,
+        "name": "Imagess",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692872741827-400767005.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-24T10:25:41.000Z",
+        "updatedAt": "2023-08-25T10:03:30.000Z"
+      },
+      {
         "id": 14,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692872742714-931088785.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692872742714-931088785.webp",
         "subcategoryId": "14",
         "homecategoryId": "16",
         "status": "1",
@@ -122,7 +132,7 @@
       {
         "id": 15,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692872743531-201193897.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692872743531-201193897.webp",
         "subcategoryId": "14",
         "homecategoryId": "16",
         "status": "1",
@@ -132,7 +142,7 @@
       {
         "id": 16,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692872745779-162223691.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692872745779-162223691.webp",
         "subcategoryId": "14",
         "homecategoryId": "16",
         "status": "1",
@@ -142,7 +152,7 @@
       {
         "id": 18,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692873785724-79093281.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692873785724-79093281.webp",
         "subcategoryId": "15",
         "homecategoryId": "16",
         "status": "1",
@@ -152,7 +162,7 @@
       {
         "id": 19,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692873786747-16748126.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692873786747-16748126.webp",
         "subcategoryId": "15",
         "homecategoryId": "16",
         "status": "1",
@@ -162,7 +172,7 @@
       {
         "id": 20,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692873787693-743748388.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692873787693-743748388.webp",
         "subcategoryId": "15",
         "homecategoryId": "16",
         "status": "1",
@@ -172,7 +182,7 @@
       {
         "id": 21,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692873791859-130003286.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692873791859-130003286.webp",
         "subcategoryId": "16",
         "homecategoryId": "16",
         "status": "1",
@@ -182,7 +192,7 @@
       {
         "id": 23,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692873793610-864379063.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692873793610-864379063.webp",
         "subcategoryId": "16",
         "homecategoryId": "16",
         "status": "1",
@@ -192,7 +202,7 @@
       {
         "id": 24,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692873794550-526827064.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692873794550-526827064.webp",
         "subcategoryId": "16",
         "homecategoryId": "16",
         "status": "1",
@@ -202,7 +212,7 @@
       {
         "id": 25,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692873795406-341742045.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692873795406-341742045.webp",
         "subcategoryId": "16",
         "homecategoryId": "16",
         "status": "1",
@@ -212,7 +222,7 @@
       {
         "id": 26,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692873799808-50197347.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692873799808-50197347.webp",
         "subcategoryId": "17",
         "homecategoryId": "16",
         "status": "1",
@@ -222,7 +232,7 @@
       {
         "id": 28,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692873801814-900068191.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692873801814-900068191.webp",
         "subcategoryId": "17",
         "homecategoryId": "16",
         "status": "1",
@@ -232,19 +242,109 @@
       {
         "id": 29,
         "name": "Imagess",
-        "image": "public/wallpaper/wallpaper-image-1692873802710-45817523.webp",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692873802710-45817523.webp",
         "subcategoryId": "17",
         "homecategoryId": "16",
         "status": "1",
         "createdAt": "2023-08-24T10:43:22.000Z",
         "updatedAt": "2023-08-24T10:43:22.000Z"
+      },
+      {
+        "id": 31,
+        "name": "Imagess",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692957595040-470507740.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-25T09:59:55.000Z",
+        "updatedAt": "2023-08-25T09:59:55.000Z"
+      },
+      {
+        "id": 32,
+        "name": "Imagess",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692957600942-522313684.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-25T10:00:00.000Z",
+        "updatedAt": "2023-08-25T10:00:00.000Z"
+      },
+      {
+        "id": 33,
+        "name": "Imagess",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692957602790-377794935.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-25T10:00:02.000Z",
+        "updatedAt": "2023-08-25T10:00:02.000Z"
+      },
+      {
+        "id": 34,
+        "name": "Imagess",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692957603628-620729266.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-25T10:00:03.000Z",
+        "updatedAt": "2023-08-25T10:00:03.000Z"
+      },
+      {
+        "id": 35,
+        "name": "Imagess",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692957604405-370813087.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-25T10:00:04.000Z",
+        "updatedAt": "2023-08-25T10:00:04.000Z"
+      },
+      {
+        "id": 36,
+        "name": "Imagess",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692957605156-112451951.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-25T10:00:05.000Z",
+        "updatedAt": "2023-08-25T10:00:05.000Z"
+      },
+      {
+        "id": 37,
+        "name": "Imagess",
+        "image": "http://localhost:5000/public/wallpaper/wallpaper-image-1692957605994-926464117.webp",
+        "subcategoryId": "14",
+        "homecategoryId": "16",
+        "status": "1",
+        "createdAt": "2023-08-25T10:00:05.000Z",
+        "updatedAt": "2023-08-25T10:00:05.000Z"
       }
     ],
-    "homeaddcategory": {
-      "id": 15,
-      "name": "Most Tranding",
-      "createdAt": "2023-08-23T09:02:34.000Z",
-      "updatedAt": "2023-08-23T09:02:34.000Z"
-    }
+    "home": [
+      {
+        "id": 15,
+        "name": "Most Tranding",
+        "createdAt": "2023-08-23T09:02:34.000Z",
+        "updatedAt": "2023-08-23T09:02:34.000Z"
+      },
+      {
+        "id": 16,
+        "name": "Recently Used",
+        "createdAt": "2023-08-23T09:02:55.000Z",
+        "updatedAt": "2023-08-23T09:02:55.000Z"
+      },
+      {
+        "id": 18,
+        "name": "Aesthetic Nature",
+        "createdAt": "2023-08-23T09:14:02.000Z",
+        "updatedAt": "2023-08-23T09:14:02.000Z"
+      },
+      {
+        "id": 19,
+        "name": "Aesthetic Nature",
+        "createdAt": "2023-08-23T09:16:07.000Z",
+        "updatedAt": "2023-08-23T09:16:07.000Z"
+      }
+    ]
   }
 }

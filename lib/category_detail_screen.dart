@@ -22,9 +22,9 @@ class CategoryDetailScreen extends StatelessWidget {
             return Center(child: CircularProgressIndicator());
           } else if (snapshot.hasError) {
             print(snapshot.error);
-            return Center(child: Text('Error loading subcategories'));
+            return Center(child: Text('Error loading subcategories: ${snapshot.error}'));
           } else {
-            final subcategories = snapshot.data;
+            final subcategories = snapshot.data ?? [];
 
             return ListView.builder(
               itemCount: subcategories?.length ?? 0,
